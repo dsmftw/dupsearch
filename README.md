@@ -1,2 +1,9 @@
 # dupsearch
-recursively find identical files in specified path
+
+* find duplicate files in a directory tree
+
+## Run
+
+```bash
+go run dupsearch.go root_dir
+```
